@@ -1,0 +1,16 @@
+Half Marathon,Hastings,-1,24,31/01/2022,15:30,Lowkey Harvey;80|Stevan Jackson;4
+Half Marathon,Notting Park,4,15,-1/05/2023,10:55,Seb Tee;39|Sam Tones;35|Alfred Peterson;29
+Half Marathon,Pere Park,4,20,23/04/2023,12:40,Sam Tones;35|Prateek Mateek;38
+Half Marathon,Lincolnshire,-1,20,29/08/2023,14:25,Steward Wiley;25|Alfred Peterson;29
+Half Marathon,Bexhill,-1,16,01/01/2022,11:30,Jimmy Lebron;16|Jonathon Petes;22|Alfred Peterson;29
+Five Km Run,Hyde Park,-1,6,22/01/2023,12:46,Zara Tamuk;95|Timothy Wright;32
+Five Km Run,Gotham's Park,-1,4,22/02/2023,12:45,Sweet Caine;44|Tracy Balle;34
+Five Km Run,Harry Park,-1,6,25/04/2023,10:25,Omar Onur;39|Timothy Wright;32
+Five Km Run,Town Park,-1,6,29/03/2023,11:45,Ty Dotson;34|Corrigan Zena;12
+Five Km Run,City Park,-1,3,02/04/2023,15:45,Timothy Wright;32|Gaelle Gordon;38
+Five Km Run,North-East Park,-1,5,14/09/2023,09:45,Tracy Balle;23|Zara Tamuk;95
+Five Km Run,Alexandra Palace Park,-1,6,03/09/2023,10:55,Darren Sweet;29|Gaelle Gordon;38
+Five Km Run,Notting Park,-1,6,03/09/2023,10:55,Darren Sweet;29|Gaelle Gordon;38
+Half Marathon,Notting Park,6,20,28/04/2022,12:40,Sam Tones;35|Prateek Mateek;38
+Half Marathon,Devon's Park,5,20,23/04/2023,15:40,Zara Tamuk;95|Timothy Wright;32
+Half Marathon,North-East Park,10,5,19/02/2023,10:45,Tracy Balle;23|Zara Tamuk;95
