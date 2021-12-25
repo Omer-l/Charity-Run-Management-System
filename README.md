@@ -1,7 +1,7 @@
 # Charity-Run-Management-System
 
 - Developed a console system for managing charity runs using Java and many OOP techniques.
-- Incorporated multiple data structures to optimize the management of data (i.e., to prevent duplications of runners at events)
+- Incorporated multiple data structures to optimise the management of data. For instance, HashSet to prevent duplications of runners at events, ArrayLists for holding the list of venues and runners.
 
 <u><b>Utilised:</b></u> Java, OOP
 
